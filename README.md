@@ -3,7 +3,7 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="left" >✨ Introduction ✨</h3>
+<h3 align="left" style="margin-bottom: 5px;">✨ Introduction ✨</h3>
 <hr style="border-bottom:0.1 solid gray;"/> 
 <br>
 
