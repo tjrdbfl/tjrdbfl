@@ -22,5 +22,9 @@
 
 <h3 align="left" style="padding: 0 20;">✨ Project ✨</h3>
 <hr style="border-bottom:0.1 solid gray;"/> 
-<a href="https://github.com/TOEICDOIT" style="font-size: 40px;">Toeicdoit Project</a> 
+<div>
+  <a href="https://github.com/TOEICDOIT" style="font-size: 40px;">Toeicdoit Project(토익두잇 프로젝트)</a> 
+  (2024.7.10 - 2024.08.09 / 5인 / FE 1인, BE 4인)
+</div>
+
 
