@@ -3,13 +3,15 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="left" style="margin-bottom: 5px;">✨ Introduction ✨</h3>
+<h3 align="left" >✨ Introduction ✨</h3>
 <hr style="border-bottom:0.1 solid gray;"/> 
 <br>
 
-<h3 align="left" style="padding: 0 20;">✨ Tech ✨</h3>
+<h3 align="left" style="padding: 0 20;">Skill</h3>
 <hr style="border-bottom:0.1 solid gray;"/> 
-<h4 align="left" style="padding: 0 20;">Proficient</h4>
+<h3 align="left" style="padding: 0 20;">Proficient</h3>
+<h4>React, TypeScript, JavaScript, </h4>
+<h3 align="left" style="padding: 0 20;">Experienced</h3>
 <h4>React, TypeScript, JavaScript, </h4>
 <div align="left">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
