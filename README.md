@@ -8,6 +8,7 @@
 <br>
 
 <h3 align="left" style="padding: 0 20;">✨ Tech ✨</h3>
+<hr style="border-bottom:0.1 solid gray;"/> 
 <h4 align="left" style="padding: 0 20;">Proficient</h4>
 <h4>React, TypeScript, JavaScript, </h4>
 <div align="left">
