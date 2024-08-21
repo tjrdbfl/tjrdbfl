@@ -4,7 +4,7 @@
 
 <!--내용 부분-->
 <h3 align="left" >✨ Introduction ✨</h3>
-<hr style="border-bottom: 0.1 solid gray;"> 
+<hr style="border-bottom: 0.1 solid gray;"/> 
 <br>
 
 <h3 align="left" style="padding: 0 20;">✨ Tech ✨</h3>
