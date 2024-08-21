@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&height=100&section=header&text=Hello,%20I%20am%20yuri,%20a%20front-end%20developer.&fontSize=30&align=center" />
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&height=100&section=header&text=Hello,%20I%20am%20yuri,%20a%20front-end%20developer.&fontSize=30&" />
+</div>
 
 <!--내용 부분-->
 <h3 align="left" style="padding: 0 20;">✨ Introduction ✨</h3>
