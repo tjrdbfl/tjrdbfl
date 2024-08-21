@@ -10,9 +10,9 @@
 <h3 align="left" style="padding: 0 20;">✨ Skill ✨</h3>
 <hr style="border-bottom:0.1 solid gray;"/> 
 <h3 align="left" style="padding: 0 20;">Proficient</h3>
-<h4>React, TypeScript, JavaScript, Next.js, Tailwind CSS, styled-components</h4>
+<h4>React, TypeScript, JavaScript, NextJS, NPM, Tailwind CSS, HTML5, styled-components, React Query, jQuery, Redux, Zustand, JWT/JSON Web Token, Zod, ESLint</h4>
 <h3 align="left" style="padding: 0 20;">Experienced</h3>
-<h4>Python, Java, Spring Boot, MySQL, Kotlin, PostgreSQL, C, C++</h4>
+<h4>Python, Java, Spring Boot, JPA, MySQL, Kotlin, PostgreSQL, C, C++</h4>
 
 <br>
 
