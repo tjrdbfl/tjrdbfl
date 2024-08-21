@@ -22,5 +22,5 @@
 
 <h3 align="left" style="padding: 0 20;">✨ Project ✨</h3>
 <hr style="border-bottom:0.1 solid gray;"/> 
-<a href="https://github.com/TOEICDOIT" style="font-size: 20px;">Toeicdoit Project</a> 
+<a href="https://github.com/TOEICDOIT" style="font-size: 40px;">Toeicdoit Project</a> 
 
