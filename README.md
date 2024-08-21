@@ -3,8 +3,8 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="left" style="padding: 0 20;">✨ Introduction ✨</h3>
-<hr style="border:0.1 solid gray"> 
+<h3 align="left" >✨ Introduction ✨</h3>
+<hr style="border: none; border-bottom: 0.1px solid gray;"> 
 <br>
 
 <h3 align="left" style="padding: 0 20;">✨ Tech ✨</h3>
