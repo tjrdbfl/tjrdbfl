@@ -22,9 +22,9 @@
 
 <h3 align="left" style="padding: 0 20;">✨ Project ✨</h3>
 <hr style="border-bottom:0.1 solid gray;"/> 
-<div>
   <a href="https://github.com/TOEICDOIT" style="font-size: 40px;">Toeicdoit Project(토익두잇 프로젝트)</a><tr/> 
   (2024.7.10 - 2024.08.09 / 5인 / FE 1인, BE 4인)
-</div>
+<br/>
+: MSA 아키텍처 구조와 Ncloud를 사용하여 배포한 토익 학습 웹사이트입니다.
 
 
