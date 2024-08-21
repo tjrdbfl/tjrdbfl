@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,2,5,30&animation=fadeIn&height=150&section=header&text=Hello,%20I%20am%20yuri,%20a%20front-end%20developer.&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&height=150&section=header&text=Hello,%20I%20am%20yuri,%20a%20front-end%20developer.&fontSize=30" />
 
 
 <!--내용 부분-->
-<h3 align="left">✨ Introduction ✨</h3>
-<div align="center">
+<h3 align="left" style="margin: 0 20px;">✨ Introduction ✨</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
