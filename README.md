@@ -2,7 +2,7 @@
 
 
 <!--내용 부분-->
-<h3 align="left" style="padding: 0 20;">✨ Introduction ✨</h3>
+<h4 align="left" style="padding: 0 20;">✨ Introduction ✨</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -18,6 +18,7 @@
 <br>
 
 <h3 align="left" style="padding: 0 20;">✨ Tech ✨</h3>
+<h5 align="left" style="padding: 0 20;">Proficient</h5>
 <div align="left">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
