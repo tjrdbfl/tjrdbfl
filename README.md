@@ -10,9 +10,9 @@
 <h3 align="left" style="padding: 0 20;">✨ Skill ✨</h3>
 <hr style="border-bottom:0.1 solid gray;"/> 
 <h3 align="left" style="padding: 0 20;">Proficient</h3>
-<h4>React, TypeScript, JavaScript, </h4>
+<h4>React, TypeScript, JavaScript, Next.js, Tailwind CSS, styled-components</h4>
 <h3 align="left" style="padding: 0 20;">Experienced</h3>
-<h4>Python, Spring Boot, MySQL, Kotlin, Postgreql, C, C++</h4>
+<h4>Python, Spring Boot, MySQL, Kotlin, PostgreSQL, C, C++</h4>
 
 <div align="left">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
