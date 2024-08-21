@@ -14,15 +14,18 @@
 <h3 align="left" style="padding: 0 20;">Experienced</h3>
 <h4>Python, Java, Spring Boot, MySQL, Kotlin, PostgreSQL, C, C++</h4>
 
-
-
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjrdbfl&theme=radical&layout=compact)
 
 <br>
 
-
+<h3 align="left" style="padding: 0 20;">✨ Project ✨</h3>
+<hr style="border-bottom:0.1 solid gray;"/> 
+<h3 align="left" style="padding: 0 20;">Proficient</h3>
+<h4>React, TypeScript, JavaScript, Next.js, Tailwind CSS, styled-components</h4>
+<h3 align="left" style="padding: 0 20;">Experienced</h3>
+<h4>Python, Java, Spring Boot, MySQL, Kotlin, PostgreSQL, C, C++</h4>
 
 
 
