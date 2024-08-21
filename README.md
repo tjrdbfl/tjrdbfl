@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&animation=fadeIn&height=150&section=header&text=Hello,%20I%20am%20yuri,%20a%20front-end%20developer.&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,2,5,30&animation=fadeIn&height=150&section=header&text=Hello,%20I%20am%20yuri,%20a%20front-end%20developer.&fontSize=30" />
 
 
 <!--내용 부분-->
