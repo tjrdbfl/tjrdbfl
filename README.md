@@ -22,6 +22,6 @@
 
 <h3 align="left" style="padding: 0 20;">✨ Project ✨</h3>
 <hr style="border-bottom:0.1 solid gray;"/> 
-### [Toeicdoit Project](https://github.com/TOEICDOIT)
-
+[Toeicdoit Project](https://github.com/TOEICDOIT)
+: 
 
