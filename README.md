@@ -2,7 +2,7 @@
 
 
 <!--내용 부분-->
-<h3 align="left" style="margin: 0 20">✨ Introduction ✨</h3>
+<h3 align="left" style="padding: 0 20;">✨ Introduction ✨</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
