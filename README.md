@@ -12,13 +12,9 @@
 <h3 align="left" style="padding: 0 20;">Proficient</h3>
 <h4>React, TypeScript, JavaScript, Next.js, Tailwind CSS, styled-components</h4>
 <h3 align="left" style="padding: 0 20;">Experienced</h3>
-<h4>Python, Spring Boot, MySQL, Kotlin, PostgreSQL, C, C++</h4>
+<h4>Python, Java, Spring Boot, MySQL, Kotlin, PostgreSQL, C, C++</h4>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+
 
 <br>
 
