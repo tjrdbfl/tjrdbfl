@@ -28,7 +28,7 @@
 : MSA 아키텍처 구조와 Ncloud를 사용하여 배포한 토익 학습 웹사이트입니다.
   <br/><br/>
 ● <a href="https://github.com/JSOLUTION-Attendance-Management">AI Wellmind Project(AI 웰니스 인사관리 프로젝트)</a><tr/> 
-  (2024.10.10 - 2024.08.09 / 3인 / FE 1인, BE 2인)
+  (2024.10.10 - 2024.08.09 / 3인 / FE 1인, BE 2인) 
 <br/><br/>
 : 모놀리식 아키텍처 구조와 JSolution 자체 클라우드 서비스를 사용하여 배포한 AI 웰니스 인사관리 프로그램입니다.
 
